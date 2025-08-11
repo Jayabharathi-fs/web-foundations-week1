@@ -42,3 +42,30 @@ Developers create feature branches instead of committing directly to the main (o
 **What is a pull request and why is it used in collaborative development?**
 
 A pull request is a request to merge changes from one branch into another. It’s used for code review, discussion, and approval before merging to ensure quality and prevent bugs.
+
+## Part 2 – Real GitHub Workflow
+
+- Created a new repository on my GitHub account "web-foundations-week1".
+
+- Created a new branch on my GitHub account "week1-submission".
+
+- Inside the branch, added the following files:
+
+  - how-browser-works.md
+  - event-loop-advanced.md
+  - http-api-basics.md
+  - git-github-guide.md
+
+- Made Individual conventional commit for each file.
+
+  - Conventional commits : The Conventional Commits specification is a lightweight convention on top of commit messages.
+  - Eg.: feat, fix, docs. etc.,
+
+- Pushed the branch to GitHub.
+
+- Opened a pull request to merge the branch into main
+
+  - Title: Week 1 Submission – Your Name
+  - Description: Summarize what you’re submitting
+
+- Assigned fsthangaraj as the reviewer in the PR

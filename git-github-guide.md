@@ -63,6 +63,4 @@ A pull request is a request to merge changes from one branch into another. It’
 
 - Pushed the branch to GitHub.
 
-- Opened a pull request to merge the branch into main
-
-- Assigned fsthangaraj as the reviewer in the PR
+- Opened a pull request to merge the branch into main and assigned the reviewer.

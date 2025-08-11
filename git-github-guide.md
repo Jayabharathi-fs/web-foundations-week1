@@ -65,7 +65,4 @@ A pull request is a request to merge changes from one branch into another. It’
 
 - Opened a pull request to merge the branch into main
 
-  - Title: Week 1 Submission – Your Name
-  - Description: Summarize what you’re submitting
-
 - Assigned fsthangaraj as the reviewer in the PR
